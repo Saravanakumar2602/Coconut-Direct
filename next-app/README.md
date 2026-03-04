@@ -1,5 +1,7 @@
 # Coconut Direct 🥥
 
+**🟢 Live Demo:** [https://coconut-direct.vercel.app/](https://coconut-direct.vercel.app/)
+
 **Coconut Direct** is a premier digital marketplace designed specifically for the coconut trade in Tamil Nadu. It completely bypasses traditional middlemen to directly connect verified coconut farmers with wholesale buyers, retailers, and end-consumers.
 
 By ensuring absolute transparency in market prices and directly establishing a streamlined trade pipeline, both farmers and buyers receive the best fair-market value. 
